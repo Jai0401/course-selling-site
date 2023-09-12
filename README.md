@@ -70,8 +70,3 @@ Contributions to Coursify are welcome! If you find any issues or have ideas for 
 - [JWT](https://jwt.io/) - For secure user authentication.
 
 ---
-
-## Demo
-
-It is live at Vercel : https://coursify-eosin.vercel.app/
-
