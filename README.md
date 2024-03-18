@@ -52,21 +52,3 @@ markdown
 Copy code
 
 5. Open your browser and visit `http://localhost:3000` to access the application.
-
-## Future Enhancements
-
-- Implement search functionality for courses based on keywords or categories.
-- Integrate a recommendation system to suggest courses based on user interests.
-- Create discussion forums to foster interaction between users and instructors.
-- Add a notification system for course updates and announcements.
-
-## Contributions
-
-Contributions to Coursify are welcome! If you find any issues or have ideas for enhancements, please feel free to open an issue or submit a pull request.
-
-## Acknowledgments
-
-- [Material UI](https://material-ui.com/) - For providing a beautiful and responsive UI.
-- [JWT](https://jwt.io/) - For secure user authentication.
-
----
