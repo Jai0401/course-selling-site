@@ -22,7 +22,7 @@ Coursify is a full-stack web application designed to manage and deliver online c
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/course-selling-site.git
+git clone https://github.com/jai0401/course-selling-site.git
 cd coursify
 
 markdown
