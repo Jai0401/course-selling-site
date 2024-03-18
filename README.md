@@ -1,4 +1,4 @@
-# Coursify - E-Learning Web Application
+# Coursify  (E-Learning Web Application)
 
 Coursify is a full-stack web application designed to manage and deliver online courses. It provides an intuitive user interface for both administrators and users. The app employs the MERN stack, JWT for authentication, and Material UI for styling, ensuring a seamless and visually appealing e-learning experience.
 
