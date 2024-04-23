@@ -34,9 +34,6 @@ function ShowCourses() {
         setUsername(finaluser);
         localStorage.setItem('username',JSON.stringify(finaluser));
     }
-    // Add code to fetch courses from the server
-    // and set it in the courses state variable.
-
 
     return (
         <div>

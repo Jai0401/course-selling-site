@@ -4,8 +4,6 @@ import "./style/style.css";
 import Appbar from "./Appbar";
 import {Route, useNavigate} from "react-router-dom";
 import { Card, CardContent, TextField, Typography, Button, FormControlLabel, Checkbox, FormGroup, Snackbar, Alert } from "@mui/material";
-/// You need to add input boxes to take input for users to create a course.
-/// I've added one input so you understand the api to do it.
 function CreateCourse() {
     const navigate = useNavigate();
     const [open,setOpen] = useState(false);

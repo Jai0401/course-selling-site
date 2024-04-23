@@ -87,26 +87,6 @@ function EditCourse(){
   )
  }
 
-
-
-// function UpdateCard(props){
-//   return(
-//     <>
-//           <Card raised={true} sx={{width:"40%",margin:"auto"}}>
-//     <CardContent style={{display:"flex",flexDirection:"column",alignItems:"center",paddinh:"6%"}}>
-//             <TextField onChange={(e)=>{setTitle(e.target.value)}} sx={{marginTop:"2%"}} fullWidth type="text" gutterBottom variant="standard" label="Title" placeholder={props.title} autoComplete="off"></TextField>
-//             <TextField  sx={{marginTop:"2%"}} type="text" fullWidth multiline gutterBottom variant="standard" label="Description" placeholder={props.description} autoComplete="off"></TextField>
-//             <TextField  sx={{marginTop:"2%"}}  type="number" fullWidth
-//             gutterBottom variant="standard" autoComplete="off" placeholder={props.price} label="Price" ></TextField>
-//             <TextField sx={{marginTop:"2%"}} type="url" fullWidth
-//             gutterBottom variant="standard" autoComplete="off" placeholder={props.imageLink} label="Image" ></TextField>
-//         <Button sx={{marginTop:"3%"}} variant="contained">Update Course</Button>
-//         </CardContent>
-//         </Card>
-//     </>
-//   )
-// }
-
 function CourseCard(props){
   return(
     <> 
@@ -120,9 +100,6 @@ function CourseCard(props){
     </Card>
 </>
 )
-
-
-
 
 }
 

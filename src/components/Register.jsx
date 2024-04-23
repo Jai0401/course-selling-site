@@ -4,7 +4,6 @@ import "./style/style.css"
 import Appbar from "./Appbar";
 import { Route, useNavigate } from "react-router-dom";
 import { Card,Button,TextField,Link,Typography, Switch, Snackbar, Alert,CircularProgress} from "@mui/material";
-/// File is incomplete. You need to add input boxes to take input for users to register.
 function Register() {
     const navigate = useNavigate();
     const [email, setEmail] = useState("");
