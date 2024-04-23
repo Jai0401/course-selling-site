@@ -22,33 +22,16 @@ Coursify is a full-stack web application designed to manage and deliver online c
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/jai0401/course-selling-site.git
-cd coursify
 
-markdown
-Copy code
+   ```sh
+   git clone https://github.com/jai0401/course-selling-site.git
+   cd coursify
 
-2. Install dependencies for both frontend and backend:
-cd frontend
-npm install
-cd ../backend
-npm install
-
-markdown
-Copy code
-
-3. Set up environment variables:
-- Create a `.env` file in the `backend` directory and add necessary variables (e.g., MongoDB connection string, JWT secret).
-
-4. Start the development server:
-cd ../frontend
-npm start
-
-Copy code
-cd ../backend
-npm start
-
-markdown
-Copy code
-
-5. Open your browser and visit `http://localhost:3000` to access the application.
+2. Install dependencies and start development server:
+   
+    ```sh
+    npm install
+    npm run dev
+    ```
+4. Open your browser and visit `http://localhost:3000` to access the application.
+5. Live at https://course-selling-site-2ec6cd01p-jai0401s-projects.vercel.app
