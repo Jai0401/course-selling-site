@@ -34,4 +34,5 @@ To run the project locally, follow these steps:
     npm run dev
     ```
 4. Open your browser and visit `http://localhost:5173` to access the application.
-5. Live at https://course-selling-site-2ec6cd01p-jai0401s-projects.vercel.app
+5. Live at 
+https://course-selling-site.vercel.app/
